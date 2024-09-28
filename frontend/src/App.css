@@ -1,0 +1,49 @@
+.app-title {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.form-section {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.user-table th {
+  color: white;
+  background-color: #343a40;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.user-table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.btn-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+}
